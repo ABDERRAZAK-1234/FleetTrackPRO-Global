@@ -1,0 +1,6 @@
+[submodule "frontEnd"]
+	path = frontEnd
+	url = https://github.com/ABDERRAZAK-1234/FleetTrackPRO-Frontend
+[submodule "backEnd"]
+	path = backEnd
+	url = https://github.com/ABDERRAZAK-1234/API-de-Gestion-de-Flotte-de-Transport-Routier
